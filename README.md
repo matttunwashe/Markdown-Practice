@@ -1,6 +1,6 @@
 Hi
 
-[This is a picture](https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg)
+![This is a picture](https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg)
 
 ```Code block```
 
