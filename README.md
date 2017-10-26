@@ -4,6 +4,12 @@ Hi
 
 ```Code block```
 
+```javascript
+function jscode() {
+
+}
+```
+
 *This is a picture of a dog*
 
 **This is a picture of a dog**
